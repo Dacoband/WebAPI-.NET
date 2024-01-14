@@ -1,9 +1,10 @@
-﻿using Microsoft.AspNetCore.Components;
+﻿
 using Microsoft.AspNetCore.Mvc;
 using PokemonReviewApp.Data;
 using PokemonReviewApp.Interface;
 using PokemonReviewApp.Models;
-using RouteAttribute = Microsoft.AspNetCore.Components.RouteAttribute;
+
+
 
 namespace PokemonReviewApp.Controllers
 {
